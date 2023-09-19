@@ -1,4 +1,4 @@
-### Hi there 👋
+Oi### Hi there 👋
 
 **Israelkilday/IsraelKilday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/israelkilday) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/israelkilday/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/israel-kilday-machado-de-souza-801482230) 
 
-![Snake animation](https://github.com/IsraelKilday/IsraelKilday/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IsraelKilday/blob/output/github-contribution-grid-snake.svg)
 
 
 
