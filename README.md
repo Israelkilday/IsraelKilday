@@ -1,12 +1,8 @@
-Oi### Hi there 👋
+# Olá👋 Bem vindo ao meu Profile!
 
-**Israelkilday/IsraelKilday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, SQL, REACT
-- 👯 I’m looking to collaborate on ...
+- 🔭 Eu sou um Front-End Developer
+- 🌱 Atualmente estou estudando ReactJS, Typescript
+- 👯 Gosto de colaborar em projetos Open Source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: israel.kilday@yahoo.com.br
