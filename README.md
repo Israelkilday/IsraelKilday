@@ -1,8 +1,12 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=IsraelKilday.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-<h1 align="center">
+
+<div align="center"><br>    
+    <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Eu+me+chamo+Israel+Kilday!;+Bem+vindo+ao+meu+perfil" />
 </h1>
+</div>
 
 <h3 align="center">Sou um profissional em transição de carreira, apaixonado por desenvolvimento frontend, e estou focado em aprender e crescer constantemente.</h3>
 
@@ -55,8 +59,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
           
 
