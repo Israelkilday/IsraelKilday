@@ -27,7 +27,7 @@
 
 <div align="center">
     
-<h1>🌐 Socials:</h1> 
+<h2>🌐 Socials:</h2> 
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israeldevfrontend) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/israelkilday?igshid=OGQ5ZDc2ODk2ZA==)
 
@@ -42,7 +42,7 @@
   </h1>  
 </div>
 
-<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br>
 
@@ -53,7 +53,7 @@
 
 <hr>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+<h2 align="center">📊 GitHub Stats:</h2>
 <br>
 <div align=center>
   
@@ -66,7 +66,7 @@
 <hr>
 
 <div align="center">
-  <h1>🐍 My Contributions 🐍</h1>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
