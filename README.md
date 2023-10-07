@@ -51,6 +51,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,git,vite,redux" />
 </div>
 
+<hr>
+
 <h1 align="center">📊 GitHub Stats:</h1>
 <br>
 <div align=center>
