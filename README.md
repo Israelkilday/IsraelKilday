@@ -1,5 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=IsraelKilday.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
+<hr>
 
 <div align="center"><br>    
     <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
@@ -26,7 +27,7 @@
 
 <div align="center">
     
-## 🌐 Socials:
+<h1>🌐 Socials:</h1> 
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israeldevfrontend) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/israelkilday?igshid=OGQ5ZDc2ODk2ZA==)
 
@@ -41,7 +42,7 @@
   </h1>  
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 
 <br>
 
@@ -50,17 +51,26 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,git,vite,redux" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Israelkilday&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Israelkilday&theme=chartreuse-dark&hide_border=false)<br/>
+<h1 align="center">📊 GitHub Stats:</h1>
+<br>
+<div align=center>
+  
+![](https://github-readme-stats.vercel.app/api?username=Israelkilday&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Israelkilday&theme=chartreuse-dark&hide_border=false)
+  <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelkilday&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+<hr>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h1>🐍 My Contributions 🐍</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
-          
 
+<hr>
 
-
+<div align="center"><br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Obrigado+pela+visita!😎;+Fale+comigo+no+Linkedin;+Até+a+próxima!👋" />
+</div>
