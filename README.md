@@ -63,7 +63,7 @@
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=express,firebase,mongodb,nodejs,postgres,prisma," /><br>
+    <img src="https://skillicons.dev/icons?i=express,firebase,mongodb,nodejs,postgres,prisma" /><br>
 </div>
 
 <h1 align="center">🛠 Tools </h1>
