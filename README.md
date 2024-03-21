@@ -50,11 +50,28 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
+<h1 align="center">✨ Frontend </h1>
+
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,javascript,typescript,firebase,react,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,vite,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,tailwind" /><br>
+</div>
+
+<h1 align="center">👨‍💻 Backend </h1>
+
+<br>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=express,firebase,mongodb,nodejs,postgres,prisma," /><br>
+</div>
+
+<h1 align="center">🛠 Tools </h1>
+
+<br>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,vite,figma,npm,postman,supabase,vercel" /><br>
 </div>
 
 <hr>
