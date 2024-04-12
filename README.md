@@ -9,20 +9,22 @@
 </h1>
 </div>
 
-<h3 align="center">Sou um profissional em transição de carreira, apaixonado por desenvolvimento frontend, e estou focado em aprender e crescer constantemente.</h3>
-
-<br/>
+<h3 align="center">Desenvolvedor Web com ampla experiência no uso das principais tecnologias do mercado, incluindo
+Typerscript, JavaScript, React, Node.js, e PostgreSQL. Proficiente em padrões de projeto, especialmente o MVC,
+comprometido com a implementação de boas práticas para garantir a eficiência, escalabilidade e manutenção dos projetos.
+</h3>
 
 <div align="center">
- 🚀 Tenho experiência trabalhando com React, uma das bibliotecas JavaScript mais populares para desenvolvimento frontend.
- 
- 🌱 Sou entusiasta do TypeScript, a linguagem que traz tipagem estática e segurança ao JavaScript.
 
- ⚡Tenho sólidos conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
+ 🤝 Possuo mais de 10 anos de experiência na área de vendas e trago de bagagem Soft Skills essenciais para o ambiente de desenvolvimento
+ 
+ 🔒 Sou entusiasta do TypeScript, a linguagem que traz tipagem estática e segurança ao JavaScript. 
+ 
+ ⚡ Tenho sólidos conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
 
  📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
 
- 💼 Trabalho em projetos pessoais para aplicar e consolidar o conhecimento adquirido.
+ 🚀 Trabalho em projetos Freelancers e pessoais para aplicar e consolidar o conhecimento adquirido.
  </div>
 
 <div align="center">
@@ -30,7 +32,7 @@
 <h2>🌐 Socials:</h2> 
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israeldevfrontend)
-<a href="https://portfolio--zeta-nine.vercel.app/" target="_blank">
+<a href="https://portfolioikdev-zeta-nine.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 </a>
 <a href="mailto:israelkilday27@gmail.com">
