@@ -46,7 +46,7 @@ comprometido com a implementação de boas práticas para garantir a eficiência
 <div align="center"><br>    
   <img height="300px" src="https://github.com/Israelkilday/IsraelKilday/assets/101229204/51154287-3302-43e5-8dc0-f7336dee2382)"/>
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=</+Front-End+Developer+>;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=</+Software+Developer+>;" />
   </h1>  
 </div>
 
