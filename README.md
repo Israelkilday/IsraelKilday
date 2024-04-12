@@ -17,14 +17,15 @@ comprometido com a implementação de boas práticas para garantir a eficiência
 <div align="center">
 
  🤝 Possuo mais de 10 anos de experiência na área de vendas e trago de bagagem Soft Skills essenciais para o ambiente de desenvolvimento
- 
- 🔒 Sou entusiasta do TypeScript, a linguagem que traz tipagem estática e segurança ao JavaScript. 
- 
- ⚡ Tenho sólidos conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
-
- 📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
+   
+ 💡 Sou adaptável às necessidades e desafios do processo, graças à minha experiência, busca por atualização e constante aprendizado.
 
  🚀 Trabalho em projetos Freelancers e pessoais para aplicar e consolidar o conhecimento adquirido.
+
+ 🔒 Sou entusiasta do TypeScript, a linguagem que traz tipagem estática e segurança ao JavaScript. 
+ 
+ 📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
+ 
  </div>
 
 <div align="center">
