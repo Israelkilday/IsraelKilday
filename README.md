@@ -51,9 +51,9 @@ comprometido com a implementação de boas práticas para garantir a eficiência
   </h1>  
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 
-<h1 align="center">✨ Frontend </h1>
+<h2 align="center"> Frontend </h2>
 
 <br>
 
@@ -61,20 +61,20 @@ comprometido com a implementação de boas práticas para garantir a eficiência
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,tailwind" /><br>
 </div>
 
-<h1 align="center">👨‍💻 Backend </h1>
+<h2 align="center"> Backend </h2>
 
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=express,firebase,mongodb,nodejs,postgres,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma,firebase" /><br>
 </div>
 
-<h1 align="center">🛠 Tools </h1>
+<h2 align="center"> Tools </h2>
 
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,vite,figma,npm,postman,supabase,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,vite,figma,npm,postman,vercel" /><br>
 </div>
 
 <hr>
