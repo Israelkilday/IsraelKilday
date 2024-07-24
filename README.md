@@ -9,16 +9,14 @@
 </h1>
 </div>
 
-<h3 align="center">Desenvolvedor Web com ampla experiência no uso das principais tecnologias do mercado, incluindo
-Typerscript, JavaScript, React, Node.js, e PostgreSQL. Proficiente em padrões de projeto, especialmente o MVC,
-comprometido com a implementação de boas práticas para garantir a eficiência, escalabilidade e manutenção dos projetos.
+<h3 align="center">Atuo como Desenvolvedor Web Fullstack, com ampla experiência no uso das principais tecnologias do mercado, proficiente no padrão MVC e outras abordagens para desenvolvimento estruturado. Utilizo testes unitários com Jest e TDD garantindo a qualidade e confiabilidade do meu código. Sou entusiasta de boas práticas para garantir a eficiência, escalabilidade e manutenção dos projetos.
 </h3>
 
 <div align="center">
 
- 🤝 Possuo mais de 10 anos de experiência na área de vendas e trago de bagagem Soft Skills essenciais para o ambiente de desenvolvimento
+ 🤝 Acumulei mais de dez anos de experiência na área de vendas, o que me proporcionou excelentes habilidades interpessoais e de resolução de problemas, essenciais para o sucesso em desenvolvimento.
    
- 💡 Sou adaptável às necessidades e desafios do processo, graças à minha experiência, busca por atualização e constante aprendizado.
+ 💡 Graças à minha experiência, busca constante por atualização e aprendizado, sou adaptável às necessidades e desafios do processo.
 
  🚀 Trabalho em projetos Freelancers e pessoais para aplicar e consolidar o conhecimento adquirido.
 
@@ -66,7 +64,7 @@ comprometido com a implementação de boas práticas para garantir a eficiência
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma,firebase,jest,vitest" /><br>
 </div>
 
 <h2 align="center"> Tools </h2>
